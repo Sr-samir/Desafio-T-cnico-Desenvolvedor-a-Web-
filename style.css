@@ -58,29 +58,29 @@ body {
   z-index: 1;
 }
 
-.img4 {
+.frame {
   position: absolute;
   left: 280px;
-  top: 50px;
+  top: 5px;
   width: 340px;
   height: 400px;
   background-size: cover;
   z-index: 1;
 }
 
-.img5 {
+.group1 {
   position: absolute;
   left: 0px;
-  top: 10px;
+  top: px;
   width: 600px;
   height: 400px;
   background-size: cover;
 }
 
-.img6 {
+.ellipse {
   position: absolute;
   left: 0px;
-  top: -15px;
+  top: -20px;
   width: 232px;
   height: 760px;
   opacity: 70%;
